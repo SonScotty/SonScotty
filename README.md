@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🌱 I’m currently learning: GitHub, what it is and coding in general. It's a long road ahead but nothing good ever came easy.
+## 📫 How to reach me: SonScotty on all socials, look for the "S" logo.
+## ⚡ Fun fact: I am a rapper
 
 <!--
 **SonScotty/SonScotty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
